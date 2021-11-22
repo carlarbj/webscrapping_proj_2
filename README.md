@@ -54,3 +54,12 @@ The 6 "extra boosters" landings were successful (and they land side by side whic
 Having in mind that in the dataset there are only official missions, there will be a few failures, but there are many things to be noticed. 
 
 Landing on the Droneship has been a lot more used and with almost no failures in missions, guaranteing the reusability and inexpensiveness of future missions. 
+
+
+## EXTRA
+## The Tableau dashboards can be found here:
+Launches: https://public.tableau.com/app/profile/carla.regina7813/viz/SpaceX_Launches/LaunchSuccess?publish=yes
+Landings: https://public.tableau.com/app/profile/carla.regina7813/viz/SpaceX_Launches/Landingsuccessxsite?publish=yes
+
+https://public.tableau.com/app/profile/carla.regina7813/viz/SpaceX_Launches/Dashboard1
+
