@@ -1,6 +1,22 @@
 # SpaceX missions analysis
 
 This is the second project made for Ironhack Bootcamp in order to put into practice skills we learned as webscrapping / APIs, cleaning the data gathered, uploading it to SQL and preparing it's visualization in Tableau.
+## Status
+
+Complete
+
+## Objectives
+
+To analyse if there is any relation beetween the site where the Falcon9 boosters land the landing failure.
+
+## ## Tools used:
+ *Pandas library
+ 
+ *API wrapper space-py
+ 
+ *SQL
+ 
+ *Tableau
 
 ## Step-by-step
 I found an spacex API with a lot of information regarding lauches that took place up to 2020. 
@@ -33,6 +49,8 @@ The 6 "extra boosters" landings were successful (and they land side by side whic
 <br/><img align="right" src="https://i.ytimg.com/vi/TthLhqq4JUs/maxresdefault.jpg" alt="" width="201" height="201" />
 <img align="right" src="https://media.wired.com/photos/5a7cb68fa2d3835392e1b469/191:100/w_2400,h_1256,c_limit/spacexrocketreturn.jpg" alt="" width="201" height="201" /> <br/>
 
+
+## Conclusion
 Having in mind that in the dataset there are only official missions, there will be a few failures, but there are many things to be noticed. 
 
 Landing on the Droneship has been a lot more used and with almost no failures in missions, guaranteing the reusability and inexpensiveness of future missions. 
